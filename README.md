@@ -3,12 +3,9 @@ Volume controller for pulseaudio with bash without needing to identify the curre
 I wrote this script for my i3 setup with pulseaudio. I wanted to be able to change the volume for all my devices at once.
 
 ## Functions
-* increaseVolume()
-... Increases the volume for all sinks by 5%
-* decreaseVolume()
-... Decreases the volume for all sinks by 5%
-* toggleMute()
-... Mute or unmute all sinks
+* increaseVolume(): Increases the volume for all sinks by 5%
+* decreaseVolume(): Decreases the volume for all sinks by 5%
+* toggleMute(): Mute or unmute all sinks
 
 ## Example
 ```bash
